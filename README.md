@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @theAI-samurai 
+- 👋 Hi, I’m @ANKIT MISHRA (theAI-samurai)
 - 👀 Artificial Intelligence is a domain that really excites ME.
 -     Computer Vision is a domain where I have extensive hands-on experience.
--     and Reinforced Learning is where I am currently involved int0
-- 🌱 I’m currently learning Applications of AI in Augmented Reality 
+-     and Reinforced Learning is where I am currently involved into
+- 🌱 I’m currently learning Applications of AI in Self-Driving Cars and Robotics 
 - 💞️ I’m looking to collaborate with fellow Enthusiasts in the domain of AI
 - 📫 How to reach me : ankitmishra723@gmail.com, +91-9971553633
 
